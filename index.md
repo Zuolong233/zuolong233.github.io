@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 大家好我是佐龙，我来自中国
+## Hello I am Zuo_long I am from China!
+## 2018.11.7~2018.11.9我要期中考了，祝我成功
+## I will have a mid–term exam in school at 2018.11.7~2018.11.9，I hope I can have a good score
 
-You can use the [editor on GitHub](https://github.com/Zuolong233/zuolong233.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
+<br>[My space of BiliBili](https://space.bilibili.com/52232364/#/) I upload some game video there
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
+<br>[My space of Youku](https://i.youku.com/mmdazuolong) I also upload some game video there but I do not sure I will upload video more in youku
 
-### Markdown
+### * [我的朋友们](https://zuolong233.github.io/friends/)
+### <br>* [我的朋友们](https://zuolong233.github.io/friends/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 佐龙推荐——我的世界服务器    My favorite Minecraft Server
+### 科威科技 Coolwill
 
-```markdown
-Syntax highlighted code block
+＃网站计划
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zuolong233/zuolong233.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [√]建站
+- [×]建立评论区
+- [√]建立友链分站
+________________________________________________________________________________________________________________________________________
