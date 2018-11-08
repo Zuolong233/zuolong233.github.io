@@ -13,7 +13,27 @@
 ### <br>* [我的朋友们](https://zuolong233.github.io/friends/)
 
 ### 佐龙推荐——我的世界服务器    My favorite Minecraft Server
-### 科威科技 Coolwill
+### * [科威科技](http://www.mcbbs.net/thread-796616-1-1.html) 
+<br>[Coolwill](http://www.mcbbs.net/thread-796616-1-1.html) 
+
+<center>服务器成立于2017.06.25 15:20:03（精确到秒）</center>
+
+<center>服务器内含有各种da（meng）lao（xin）的气息</center>
+
+<center>欢迎广大玩家的加入</center>
+
+<center>服务器已于2018-04-10转型为正版服</center>
+
+* 本服各种优越待遇/xyx
+* 闲聊
+* 各服合作商
+* 各音乐爱好者
+* “24小时空调开放”
+* 24小时在线答疑
+* 可供别的服主交流的群
+* 技术交流
+* 给玩家办生日会
+* 逗比服主（已爆照允许面基）
 
 ＃网站计划
 
