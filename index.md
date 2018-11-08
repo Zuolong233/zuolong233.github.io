@@ -14,11 +14,11 @@
 
 ### 佐龙推荐——我的世界服务器    My favorite Minecraft Server
 ### * [科威科技](http://www.mcbbs.net/thread-796616-1-1.html) 
-<br>[Coolwill](http://www.mcbbs.net/thread-796616-1-1.html) 
-<br>服务器成立于2017.06.25 15:20:03（精确到秒）</center>
-<br>服务器内含有各种da（meng）lao（xin）的气息</center>
-<br>欢迎广大玩家的加入</center>
-<br>服务器已于2018-04-10转型为正版服</center>
+<br> <center>[Coolwill](http://www.mcbbs.net/thread-796616-1-1.html)
+<br> <center>[服务器成立于2017.06.25 15:20:03（精确到秒）</center>
+<br> <center>[服务器内含有各种da（meng）lao（xin）的气息</center>
+<br> <center>[欢迎广大玩家的加入</center>
+<br> <center>[服务器已于2018-04-10转型为正版服</center>
 
 * 本服各种优越待遇/xyx
 * 闲聊
