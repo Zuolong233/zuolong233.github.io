@@ -37,7 +37,7 @@
 
 新闻：某服主因为长期做公益未获得回报，被饿晕，如需捐赠打钱至QQ2660358597
 
-<img src="https://s1.ax1x.com/2018/11/09/ibFsNF.png" width="15%" height="15%" />
+<img src="https://s1.ax1x.com/2018/11/09/ib1eyT.jpg" width="20%" height="20%" />
 
 ＃网站计划
 
