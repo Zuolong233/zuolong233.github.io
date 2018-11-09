@@ -1,8 +1,9 @@
 ## 大家好我是佐龙，我来自中国
 ## Hello I am Zuo_long I am from China!
 
-<img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="15%" height="15%" />
-
+<center>
+<img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="25%" height="25%" />
+</center>
 
 * [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
 <br>[My space of BiliBili](https://space.bilibili.com/52232364/#/) I upload some game video there
