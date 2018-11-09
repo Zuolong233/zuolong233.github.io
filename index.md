@@ -22,14 +22,13 @@
                                              <br> 欢迎广大玩家的加入
                                         <br> 服务器已于2018-04-10转型为正版服
 
+科威科技:<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=ef0e8ec03b9edf7142a4c7db24d8b6c5e2ecf99c3bda359cd12c3bfcbbb1cc20 
 
-<code class="language-html"><pre name="code" class="html"><a target="_blank" href="http://qun.qq.com/#jointhegroup/gid/596123733">    
-    <img border="0" src="http://cgi.qun.qq.com/gscgi/s1/gp.do?gid=77359308" alt="点击这里加入此群" title="科威科技">    
-</a></pre>    
-<pre></pre>    
-<br>    
-  
-</code>  
+"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png 
+
+" alt="科威科技 CoolWill" title="科威科技 CoolWill"></a><a href="//shang.qq.com/wpa/qunwpa?idkey=ef0e8ec03b9edf7142a4c7db24d8b6c5e2ecf99c3bda359cd12c3bfcbbb1cc20 
+
+">596123733</a>
 
 
 * 本服各种优越待遇/xyx
