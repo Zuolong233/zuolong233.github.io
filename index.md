@@ -22,6 +22,16 @@
                                              <br> 欢迎广大玩家的加入
                                         <br> 服务器已于2018-04-10转型为正版服
 
+
+<code class="language-html"><pre name="code" class="html"><a target="_blank" href="http://qun.qq.com/#jointhegroup/gid/596123733">    
+    <img border="0" src="http://cgi.qun.qq.com/gscgi/s1/gp.do?gid=77359308" alt="点击这里加入此群" title="科威科技">    
+</a></pre>    
+<pre></pre>    
+<br>    
+  
+</code>  
+
+
 * 本服各种优越待遇/xyx
 * 闲聊
 * 各服合作商
