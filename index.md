@@ -59,11 +59,15 @@ ________________________________________________________________________________
 
 ### · 个人联系方式   ♌️
 > ###### -添加qq好友:                                              
->>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2086237887&amp;site=qq&amp;menu=yes"  alt="王校长爱吃热狗&#39;s qq Account" title="王校长爱吃热狗&#39;s qq Account">2086237887</a>
+>>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2086237887&amp;site=qq&amp;menu=yes"  alt="王校长爱吃热狗&#39;s qq Account" title="你看这个热狗多么好吃啊">2086237887</a>
 > 
 
 > ###### -bilibili:
 >>bilibili ID:<a href="https://space.bilibili.com/52232364/?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">AM_佐龙</a>
+> 
+
+> ###### -Twitter:
+>>Twitter Page:<a href="https://twitter.com/long_zuo"  alt="佐龙的推特" title="佐龙的推特">long_zuo</a>
 > 
 
 友好连接：TheCirdel:
