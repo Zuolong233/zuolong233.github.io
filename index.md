@@ -48,31 +48,15 @@
 
 ________________________________________________________________________________________________________________________________________
 
+<!--setInterval实时显示时间-->
+<p id="time1" style="color: blueviolet;"></p>
+<script>
+    function mytime(){
+        var a = new Date();
+        var b = a.toLocaleTimeString();
+        var c = a.toLocaleDateString();
+        document.getElementById("time1").innerHTML = c+"&nbsp"+b;
+        }
+    setInterval(function() {mytime()},1000);
+</script>
 
-<% 
-
-zuolong233.github.io
-
-Integer count=（Integer）application.getAttribute(“count”); 
-
-if(count != null){ 
-
-count=count+1 
-
-}else{ 
-
-count=1 
-
-} 
-
-application.setAttribute(“count”,count); 
-
-%> 
- 
-<% 
-
-Integer i= (Integer ) application.getAttribute(“count”); 
-
-out.print(“目前有”+i+”个人访问过本网站”); 
-
-%>
