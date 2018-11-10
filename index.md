@@ -5,7 +5,7 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="25%" height="25%" />
 </center>
 
-现在的时间是 <!--setInterval实时显示时间-->
+现在的时间是： <!--setInterval实时显示时间-->
 <p id="time1" style="color: blueviolet;"></p>
 <script>
     function mytime(){
