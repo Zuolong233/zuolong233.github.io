@@ -1,5 +1,4 @@
 ## 大家好我是佐龙，我来自中国
-## Hello I am Zuo_long I am from China!
 
 <center>
 <img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="25%" height="25%" />
@@ -17,12 +16,9 @@
     setInterval(function() {mytime()},1000);
 </script>
 
-
 * [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
-<br>[My space of BiliBili](https://space.bilibili.com/52232364/#/) I upload some game video there
 
 * [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
-<br>[My space of Youku](https://i.youku.com/mmdazuolong) I also upload some game video there but I do not sure I will upload video more in youku
 
 ### [My friends](https://zuolong233.github.io/friends/)
 
@@ -61,4 +57,21 @@
 
 ________________________________________________________________________________________________________________________________________
 
+### · 个人联系方式   ♌️
+> ###### -添加qq好友:                                              
+>>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2086237887&amp;site=qq&amp;menu=yes"  alt="王校长爱吃热狗&#39;s qq Account" title="王校长爱吃热狗&#39;s qq Account">2086237887</a>
+> 
 
+> ###### -bilibili:
+>>bilibili ID:<a href="https://space.bilibili.com/52232364/?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">AM_佐龙</a>
+> 
+
+友好连接：TheCirdel:
+
+> ###### -YouTuBe:
+>>YouTuBe Page:<a href="https://www.youtube.com/channel/UC2CGBuj3mPRySXfKZpibNXw"  alt="404 NOT FOUND" title="404 NOT FOUND">TheCirdel</a>
+> 
+
+> ###### -FaceBook:
+>>FaceBook Page:<a href="https://www.facebook.com/sa.cirdel"  alt="404 NOT FOUND" title="404 NOT FOUND">SACirdel</a>
+> 
