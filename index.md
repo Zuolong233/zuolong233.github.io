@@ -5,6 +5,19 @@
 <img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="25%" height="25%" />
 </center>
 
+<!--setInterval实时显示时间-->
+<p id="time1" style="color: blueviolet;"></p>
+<script>
+    function mytime(){
+        var a = new Date();
+        var b = a.toLocaleTimeString();
+        var c = a.toLocaleDateString();
+        document.getElementById("time1").innerHTML = c+"&nbsp"+b;
+        }
+    setInterval(function() {mytime()},1000);
+</script>
+
+
 * [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
 <br>[My space of BiliBili](https://space.bilibili.com/52232364/#/) I upload some game video there
 
@@ -48,15 +61,4 @@
 
 ________________________________________________________________________________________________________________________________________
 
-<!--setInterval实时显示时间-->
-<p id="time1" style="color: blueviolet;"></p>
-<script>
-    function mytime(){
-        var a = new Date();
-        var b = a.toLocaleTimeString();
-        var c = a.toLocaleDateString();
-        document.getElementById("time1").innerHTML = c+"&nbsp"+b;
-        }
-    setInterval(function() {mytime()},1000);
-</script>
 
