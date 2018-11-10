@@ -11,7 +11,7 @@
 * [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
 <br>[My space of Youku](https://i.youku.com/mmdazuolong) I also upload some game video there but I do not sure I will upload video more in youku
 
-### [My friends](https://zuolong233.github.io/friends/)
+### <center>[My friends](https://zuolong233.github.io/friends/)</center>
 
 ### 佐龙推荐——我的世界服务器 <br>My favorite Minecraft Server  
 
