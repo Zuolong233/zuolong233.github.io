@@ -24,6 +24,7 @@
 * [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
 
 ### [My friends](https://zuolong233.github.io/friends/)
+### [第一个游戏](https://zuolong233.github.io/Game1/)    PS:讲真的我现在还不知道这个怎么用
 
 ### 佐龙推荐——我的世界服务器 <br>My favorite Minecraft Server  
 
