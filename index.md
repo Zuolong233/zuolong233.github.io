@@ -1,6 +1,6 @@
 <head>
-    <title>咕咕咕咕咕咕咕咕</title>
-  </head>
+<link rel="shortcut icon" href=" /favicon.ico" /> 
+</head>
 ## 大家好我是佐龙，我来自中国
 
 <center>
