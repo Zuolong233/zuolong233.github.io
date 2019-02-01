@@ -23,7 +23,7 @@
 <embed src="//music.163.com/style/swf/widget.swf?sid=4010201&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 * [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
-* PS：本人最近在参加第三届哔哩哔哩新星大赛，**一定是下一届百大UP主之一**大家可以来关注然后投币点赞收藏哦~
+**PS：本人最近在参加第三届哔哩哔哩新星大赛，~~一定是下一届百大UP主之一，~~大家可以来关注然后投币点赞收藏哦~
 
 * [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
 
