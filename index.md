@@ -1,3 +1,4 @@
+<title>鸽子佐龙小站</title>
 <head>
 <link rel="shortcut icon" href=" /favicon.ico" /> 
 </head>
