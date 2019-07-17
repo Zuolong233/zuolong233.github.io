@@ -2,7 +2,7 @@
 <head>
 <link rel="shortcut icon" href=" /favicon.ico" /> 
 </head>
-## 大家好我是佐龙，我来自中国
+## 咕咕咕咕咕咕
 
 <center>
 <img src="https://s1.ax1x.com/2018/11/09/ibFQnP.jpg" width="25%" height="25%" />
@@ -23,10 +23,9 @@
 
 <embed src="//music.163.com/style/swf/widget.swf?sid=4010201&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
-* [我的BiliBili空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
-**PS：本人最近在参加第三届哔哩哔哩新星大赛，~~一定是下一届百大UP主之一，~~大家可以来关注然后投币点赞收藏哦~
-
-* [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，不确定会不会更新
+* [我的哔哩哔哩空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
+**求关注！
+* [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，停更
 
 ### [My friends](https://zuolong233.github.io/friends/)
 ### [飞机大战](https://zuolong233.github.io/Game1/) 会打飞机不？
@@ -68,11 +67,11 @@ ________________________________________________________________________________
 
 ### · 个人联系方式   ♌️
 > ###### -添加qq好友:                                              
->>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2086237887&amp;site=qq&amp;menu=yes"  alt="王校长爱吃热狗&#39;s qq Account" title="你看这个热狗多么好吃啊">2086237887</a>
+>>   QQ:<a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2086237887&amp;site=qq&amp;menu=yes"  alt="佐龙&#39;s qq Account" title="哔哩哔哩三连关注pls">2086237887</a>
 > 
 
 > ###### -bilibili:
->>bilibili ID:<a href="https://space.bilibili.com/52232364/?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">AM_佐龙</a>
+>>bilibili ID:<a href="https://space.bilibili.com/52232364/?share_medium=android&amp;share_source=copy_link&amp;bbid=aV1rWz4MNVEyUGEAfAB8infoc&amp;ts=1541739409678"  alt="关注点赞收藏投币qwq" title="关注点赞收藏投币qwq">佐龙</a>
 > 
 
 > ###### -Twitter:
