@@ -24,37 +24,13 @@
 <embed src="//music.163.com/style/swf/widget.swf?sid=4010201&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 * [我的哔哩哔哩空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
-**求关注！
+** 求关注！
 * [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，停更
 
 ### [My friends](https://zuolong233.github.io/friends/)
 ### [飞机大战](https://zuolong233.github.io/Game1/) 会打飞机不？
 
-### 佐龙推荐——我的世界服务器 <br>My favorite Minecraft Server  
-
-* [科威科技](http://www.mcbbs.net/thread-796616-1-1.html) 
-<br>[Coolwill](http://www.mcbbs.net/thread-796616-1-1.html)
-
-简介（No English!）：
-                                     <br> 服务器成立于2017.06.25 15:20:03（精确到秒）
-                                     <br> 服务器内含有各种da（meng）lao（xin）的气息
-                                             <br> 欢迎广大玩家的加入
-                                        <br> 服务器已于2018-04-10转型为正版服
-
-* 本服各种优越待遇/xyx
-* 闲聊
-* 各服合作商
-* 各音乐爱好者
-* “24小时空调开放”
-* 24小时在线答疑
-* 可供别的服主交流的群
-* 技术交流
-* 给玩家办生日会
-* 逗比服主（已爆照允许面基）
-
-新闻：某服主因为长期做公益未获得回报，被饿晕，如需捐赠打钱至QQ2660358597
-
-<img src="https://s1.ax1x.com/2018/11/09/ib1eyT.jpg" width="20%" height="20%" />
+### 广告位待招
 
 ＃网站计划
 
