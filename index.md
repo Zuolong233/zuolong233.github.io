@@ -21,7 +21,8 @@
 </script>
 
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=4010201&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+#搞点音乐听听⑧
+<embed src="//music.163.com/style/swf/widget.swf?sid=527117582&type=4&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
 
 * [我的哔哩哔哩空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
 **求关注！**
@@ -32,9 +33,7 @@
 
 ### 广告位待招
 
-＃搞点音乐听听⑧
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=4&id=527117582&auto=1&height=430"></iframe>
+好兄弟，一起玩CSGO吗
 
 ________________________________________________________________________________________________________________________________________
 
