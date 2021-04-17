@@ -22,11 +22,10 @@
 
 
 # 搞点音乐听听⑧
-<embed src="//music.163.com/style/swf/widget.swf?sid=527117582&type=4&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all">
+    音乐已丢失
 
 * [我的哔哩哔哩空间](https://space.bilibili.com/52232364/#/) 你可以在这里看到我的一些视频，持续更新中
 **求关注！**
-* [我的优酷空间](https://i.youku.com/mmdazuolong) 你可以在这里看到我的一些视频，停更
 
 ### [My friends](https://zuolong233.github.io/friends/)
 ### [飞机大战](https://zuolong233.github.io/Game1/) 会打飞机不？
